@@ -1,4 +1,4 @@
 import numpy as np
 import os
-#linea de base
-import matplotlib.pyplot as plt
+#esto es otro experimento con opencv
+import cv2
